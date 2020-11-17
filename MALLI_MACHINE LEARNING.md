@@ -9,10 +9,3 @@
 <li> K Means Clustering</li>
 <li> Dimensionality Reduction</li>
 <li>Bias-Variance</li>
-
-
-
-**<head1>DEEP LEARNING TOPICS</head1>**
-
-<li>Neural Networks</li>
-<li>Introduction to PyTorch</li>
